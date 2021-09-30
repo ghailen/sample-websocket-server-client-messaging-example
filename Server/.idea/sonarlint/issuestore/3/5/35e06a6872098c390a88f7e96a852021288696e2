@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÀö’ÿÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³8‘ìÉÇÃ/
+U	java:S106("9Replace this use of System.out or System.err by a logger.(ñ·Ë¹8ß—°ÇÃ/
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
